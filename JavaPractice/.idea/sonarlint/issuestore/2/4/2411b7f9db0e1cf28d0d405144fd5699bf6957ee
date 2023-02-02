@@ -1,0 +1,25 @@
+
+m
+java:S1192("RDefine a constant instead of duplicating this literal "invalid argument," 3 times.(ÀÇ üÿÿÿÿ
+S
+java:S1854"=Remove this useless assignment to local variable "phoneObj2".(ª‘Ë
+Z
+java:S1854"?Remove this useless assignment to local variable "groceryObj2".(ÔĞËÚúÿÿÿÿ
+E
+java:S1197
+"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+D
+java:S1481".Remove this unused "phoneObj2" local variable.(ª‘Ë
+K
+java:S1481"0Remove this unused "groceryObj2" local variable.(ÔĞËÚúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£ğßÓ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²€œüüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—èØ©
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£ş‰øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿòïô
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(©Âãæ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(Ø’îúÿÿÿÿ
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(Ç¿®:
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÀÇ üÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÀÇ üÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ÀÇ üÿÿÿÿ

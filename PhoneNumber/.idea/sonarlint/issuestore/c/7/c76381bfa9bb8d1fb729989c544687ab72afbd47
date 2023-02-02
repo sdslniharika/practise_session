@@ -1,0 +1,22 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‚ÜÒ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(úÆ‰şûÿÿÿÿ
+Â
+java:S1598"«This file "AddressBook.java" should be located in "com/example/demo/com/glo/addressBook" directory, not in "/home/niharika/Documents/JAVA/PhoneNumber/com/glo/addressBook".(Á£åÁ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á£åÁ
+H
+java:S1135"2Complete the task associated to this TODO comment.(…ïœ†
+H
+java:S1135"2Complete the task associated to this TODO comment.(…ïœ†
+H
+java:S1135""2Complete the task associated to this TODO comment.(…ïœ†
+H
+java:S1135/"2Complete the task associated to this TODO comment.(…ïœ†
+h
+java:S62042"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ä¤­
+H
+java:S11357"2Complete the task associated to this TODO comment.(…ïœ†
+h
+java:S6204:"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(È¨ÿ¾
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ

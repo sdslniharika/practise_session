@@ -1,0 +1,14 @@
+
+h
+java:S1192""RDefine a constant instead of duplicating this literal "Product not found" 4 times.(–ìµÔ
+i
+java:S1192,"NDefine a constant instead of duplicating this literal "Invalid Input" 5 times.(Èå²¬ıÿÿÿÿ
+J
+java:S1066G"/Merge this if statement with the enclosing one.(üê‚Úûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Åõî
+e	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“›…6
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌîÎşÿÿÿÿ
+_
+java:S6201F"DReplace this instanceof check and cast with 'instanceof Phone phone'(ŒĞ½ÿÿÿÿÿ
+_
+java:S6201F"DReplace this instanceof check and cast with 'instanceof Phone phone'(ŒĞ½ÿÿÿÿÿ
