@@ -1,0 +1,23 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <bean id="invoice" class="org.example.entity.Invoice" >
+        <property name="partNumber" value="1234"></property>
+        <property name="partDescription" value="Bolt"></property>
+        <property name="quantity" value="10"></property>
+        <property name="price" value="9.9"></property>
+    </bean>
+
+    <bean id="invoice2" class="org.example.entity.Invoice">
+        <property name="partNumber" value="1235"></property>
+        <property name="partDescription" value="Screw"></property>
+        <property name="quantity" value="10"></property>
+        <property name="price" value="0.0"></property>
+    </bean>
+
+
+</beans>

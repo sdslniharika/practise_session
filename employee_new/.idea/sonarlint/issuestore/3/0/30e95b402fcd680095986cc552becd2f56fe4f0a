@@ -1,0 +1,32 @@
+
+H
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Z
+java:S2147X"DCombine this catch with the one at line 86, which has the same body.(”ı¾
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤íù˜øÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ß‰Å…ùÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Ù´€ò
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ï™ñÒúÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(²‘ù½
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(™¬Ç•
+6	java:S131(""Add a default case to this switch.(Âúïi
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(¿ÚÑ§şÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ß®ıõüÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(Ñ‹÷ë
+M	java:S1063"9Replace this use of System.out or System.err by a logger.(Ğ“çz
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Ğà”¢ÿÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(´ûËíøÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(‰¡Ì¤
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(°Ñ£¼
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(¿ÚÑ§şÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+V
+java:S1612O"@Replace this lambda with method reference 'System.out::println'.(°¥
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(°¥
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+K
+java:S1128
+"0Remove this unused import 'java.time.LocalTime'.(à®øÃùÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

@@ -1,0 +1,21 @@
+
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ò”Ìøÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¿ÛıÑ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ú¹™âşÿÿÿÿ
+Q	java:S1250"<This block of commented-out lines of code should be removed.(Ğ¢Ñ±
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ôééÏ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ˆÉ›
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(—ğ¾äıÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(…ßàà
+M	java:S1068"9Replace this use of System.out or System.err by a logger.(½¨ó$
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(’¶«¨
+M	java:S106<"9Replace this use of System.out or System.err by a logger.(½¨ó$
+N	java:S106="9Replace this use of System.out or System.err by a logger.(¬ƒüÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ú«‹û
+Q	java:S125A"<This block of commented-out lines of code should be removed.(½‘Ñ³
+b
+java:S1128"GRemove this unused import 'org.example.exception.BusNotFoundExcpetion'.(Ë›à•úÿÿÿÿ
+e
+java:S1128"JRemove this unused import 'org.example.exception.TicketNotFoundExcpetion'.(Ğª¨ôûÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ

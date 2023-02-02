@@ -1,0 +1,35 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+    <context:annotation-config/>
+    <bean id="dtf" class="java.text.SimpleDateFormat">
+        <constructor-arg value="dd-mm-yyyy"></constructor-arg>
+    </bean>
+    <bean id="employee" class="org.example.entity.Employee">
+        <property name="employeeId" value="234"></property>
+        <property name="employeeName" value="Alice"></property>
+        <property name="salary" value="5899.99"></property>
+
+        <property name="dateOfBirth">
+            <bean factory-bean="dtf" factory-method="parse">
+                <constructor-arg value="13-2-1983"></constructor-arg>
+            </bean>
+        </property>
+        <property name="dateOfJoining">
+            <bean factory-bean="dtf" factory-method="parse">
+                <constructor-arg value="16-2-2021"></constructor-arg>
+            </bean>
+        </property>
+    </bean>
+
+    <bean id="address" class="org.example.entity.Address">
+        <property name="houseNumber" value="12-1"></property>
+        <property name="street" value="Taj road"></property>
+        <property name="city" value="Hyderabad"></property>
+
+    </bean>
+
+</beans>

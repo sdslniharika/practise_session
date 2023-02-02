@@ -1,0 +1,7 @@
+
+r
+java:S1104	"WMake employeeMap a static final constant or non-public and provide accessors if needed.(Ö¸Ïýùÿÿÿÿ
+L
+java:S1444	"1Make this "public static employeeMap" field final(Ö¸Ïýùÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ãðÿ¼þÿÿÿÿ
